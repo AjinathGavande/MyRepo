@@ -1,0 +1,56 @@
+2022-11-09 13:34:28,723 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 13:35:42,998 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoProject:DemoProject:0.0.1-SNAPSHOT @ D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\pom.xml.
+2022-11-09 13:35:46,942 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:35:46,942 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\main\resources
+2022-11-09 13:35:46,948 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:35:46,948 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\test\resources
+2022-11-09 13:35:48,079 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: DemoProject:DemoProject:0.0.1-SNAPSHOT @ D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\pom.xml.
+2022-11-09 13:35:49,437 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:35:49,437 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\main\resources
+2022-11-09 13:35:49,443 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:35:49,443 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\test\resources
+2022-11-09 13:35:51,170 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:35:51,171 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\main\resources
+2022-11-09 13:35:51,176 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:35:51,176 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\test\resources
+2022-11-09 13:41:28,420 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:41:28,420 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\main\resources
+2022-11-09 13:41:28,422 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:41:28,422 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\test\resources
+2022-11-09 13:43:21,631 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:43:21,631 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\main\resources
+2022-11-09 13:43:21,637 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:43:21,639 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\test\resources
+2022-11-09 13:53:51,328 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:53:51,328 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\main\resources
+2022-11-09 13:53:51,328 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:53:51,328 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\test\resources
+2022-11-09 13:54:12,648 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:54:12,649 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\main\resources
+2022-11-09 13:54:12,656 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:54:12,656 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\test\resources
+2022-11-09 13:56:07,883 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:56:07,883 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\main\resources
+2022-11-09 13:56:07,887 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:56:07,887 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\test\resources
+2022-11-09 13:56:23,152 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:56:23,152 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\main\resources
+2022-11-09 13:56:23,159 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:56:23,160 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\test\resources
+2022-11-09 13:56:46,372 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:56:46,372 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\main\resources
+2022-11-09 13:56:46,376 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 13:56:46,377 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\test\resources
+2022-11-09 14:03:43,536 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-09 14:03:56,915 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 14:03:56,918 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\main\resources
+2022-11-09 14:03:56,924 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 14:03:56,924 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\test\resources
+2022-11-09 14:04:52,352 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 14:04:52,353 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\main\resources
+2022-11-09 14:04:52,357 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 14:04:52,357 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\test\resources
+2022-11-09 14:07:35,928 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 14:07:35,929 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\main\resources
+2022-11-09 14:07:35,932 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-09 14:07:35,933 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GitHub\DemoRepo04JuneMB\MyRepo\DemoProject\src\test\resources

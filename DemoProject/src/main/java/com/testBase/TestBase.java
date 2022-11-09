@@ -19,24 +19,8 @@ public class TestBase {
 
 	public static WebDriver driver;
 
-	@BeforeSuite
-	public void test1() {
-
-	}
-
-	@BeforeClass
-	public void start() {
-
-	}
-
-	@AfterClass
-	public void stop() {
-
-	}
-
 	String br = "chrome";
 
-	@Parameters("browser")
 	@BeforeMethod
 	public void setUp(String br) {
 		if (br.equalsIgnoreCase("chrome")) {
@@ -53,7 +37,7 @@ public class TestBase {
 		}
 //		logger.info("Browser Launched");
 
-		driver.get("https://demoblaze.com/index.html#");
+		driver.get("https://suite8demo.suiteondemand.com/#/Login");
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
